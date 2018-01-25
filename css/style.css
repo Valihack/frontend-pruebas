@@ -1,0 +1,71 @@
+h1{
+		color: white;
+	}	
+header{   
+   background-color: black;
+}
+body{
+		background-color: white;	
+}
+#yt-channel{
+		background-color: white;
+		margin-top: 2%;
+}
+#videos{
+		margin: 14px;	
+}
+#canal{
+		color: black;	
+		margin-left: 2%;
+		margin-right: 2%;	
+}
+#yt{
+  background-image: url("http://cdn.pcwallart.com/images/polygons-shapes-wallpaper-2.jpg");
+  height: 500px;   
+} 
+#profile{
+  color: lightgrey;	
+	margin-bottom: 3%;
+  font-size: 40px;
+}
+#steam{
+  background-color: black;
+   padding: 25px 50px;
+}
+#steam-text{
+   margin-left: 15%;
+   margin-right:15%;
+}
+p{
+  color: lightgrey;
+  font-size: 20px;
+  align-text: justified;
+  margin-bottom: 4%;
+}
+#esp-riders{
+  color: lightgrey;
+}
+#foto-perfil{
+  border-radius: 50%;
+  width: 60px;
+  height: auto;
+}
+#git-profile{
+  color:black;
+  margin-bottom: 3%;
+  font-size: 40px;
+}
+#github-text{
+  margin-top:0%;
+}
+.fondo{
+  background-image: url("https://og.github.com/mark/github-mark@1200x630.png");
+  background-position: center top; 
+    background-repeat: no-repeat;
+  width:100%;
+  heigh:100%;
+  
+}
+.repos{
+  margin-left:5%;
+}
